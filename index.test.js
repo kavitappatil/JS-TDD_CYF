@@ -14,6 +14,9 @@
 
 //   expect(result).toBe(5);
 // });
+function rps() {
+      return "left";
+}
 
 describe("rock, paper, scissors", () => {
   it("should say left wins for rock vs. scissors", () => {
